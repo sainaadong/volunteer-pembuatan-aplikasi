@@ -8,3 +8,4 @@ Silakan gunakan format berikut:
 Berikut adalah daftar volunter yang diterima:
 * Oon Afriandwi, [oo.or.id](https://oo.or.id)
 * Sainaadongdo, [GitHub](https://github.com/sainaadong)
+* ea
